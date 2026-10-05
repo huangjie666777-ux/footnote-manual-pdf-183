@@ -1,0 +1,97 @@
+{
+  "paragraphs": [
+    [
+      {
+        "type": "text",
+        "text": "1. Preparation. Disconnect the main power supply and release residual pressure from the hydraulic circuit before removing any cover plate or sensor connector from the engine block assembly during scheduled maintenance of the drive unit housing bracket manifold filter system."
+      },
+      {
+        "type": "ref",
+        "ref": "lockout"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "2. Removal. Loosen the eight M6 housing fasteners in a star sequence, lift the cover straight up, inspect the gasket surface, and place every reusable fastener in the labeled tray so the reassembly sequence can be followed without mixing long bolts with the shorter bracket screws used near the filter head."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "3. Inspection. Measure the gasket thickness at four points, check the sensor contacts for corrosion, verify the manifold bore is free of debris, and confirm the calibration sticker is legible; when any measurement is outside the service limit, replace the component and record the part number on the work order."
+      },
+      {
+        "type": "ref",
+        "ref": "torque"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "4. Reassembly. Fit a new dry gasket, set the cover on the dowels, start all fasteners by hand, and torque in two passes; the same lockout rule applies whenever the station is re-energized for a test run after the housing is opened for cleaning or seal replacement work."
+      },
+      {
+        "type": "ref",
+        "ref": "lockout"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "5. Final check. Perform a low pressure leak test, inspect every joint for seepage, wipe the exterior, and sign the maintenance log before returning the machine to production. "
+      },
+      {
+        "type": "ref",
+        "ref": "cool"
+      },
+      {
+        "type": "text",
+        "text": " Keep all replaced parts for warranty review."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "6. Lubrication. Apply a thin film of approved grease to the seal groove and both gasket faces before assembly, wipe away excess grease from the sensor bore, and never use petroleum based compounds on EPDM seals because they cause swelling and premature failure during the next service interval inspection round."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "7. Electrical checks. With the lockout still applied, measure continuity across the interlock chain, inspect the harness grommets for chafing, secure every loose cable tie, and confirm the earth bond resistance is below the limit printed in the wiring diagram before any powered diagnostic sequence is attempted at the station under supervised maintenance conditions only."
+      },
+      {
+        "type": "ref",
+        "ref": "cool"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "8. Hydraulic service. Place a drain pan under the filter head, unscrew the cartridge slowly, drain the residual oil, lubricate the new cartridge seal with clean oil, tighten by hand until the seal contacts the head, then add one further turn by hand; start the engine briefly, stop, top up to the mark, and recheck for leaks at every joint under operating pressure after the system reaches normal temperature."
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "9. Cooling system. Drain coolant into a clean container, flush the jacket with water until the runoff is clear, refill with the specified mixture, bleed air from the highest hose, and run the pump until the thermostat opens; top up as needed and verify the warning lamp circuit during the post-service functional test documented on the checklist attached to this manual section."
+      },
+      {
+        "type": "ref",
+        "ref": "lockout"
+      }
+    ],
+    [
+      {
+        "type": "text",
+        "text": "10. Final torque audit. Revisit every fastener in sequence after the heat cycle, mark each checked fastener with paint, record values, reinstall all guards, labels and access covers, remove tools, restore power, and brief the operator about the changed gasket behavior during the first operating hours of the repaired drive unit assembly today."
+      }
+    ]
+  ],
+  "footnotes": {
+    "lockout": "Lock out and tag out the main breaker; verify zero voltage with an approved tester before touching any conductor or terminal block inside the service enclosure.",
+    "torque": "Torque the M6 fasteners to 9 Nm in the first pass and 12 Nm in the final pass, always following the star sequence printed on the housing cover.",
+    "cool": "Allow the assembly to cool below 40 degrees Celsius before beginning the procedure to prevent burns and protect the new gasket from heat damage."
+  }
+}
